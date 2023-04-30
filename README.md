@@ -32,7 +32,7 @@ npm run deploy
 yarn deploy
 ```
 
-## Releasing Contracts
+### Releasing Contracts
 
 If you want to release a version of your contracts publicly, you can use one of the followings command:
 
